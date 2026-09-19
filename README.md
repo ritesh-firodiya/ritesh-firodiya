@@ -44,51 +44,18 @@ Products under **[Ritvi Apps](https://github.com/ritvi-apps)**, my own ventures,
 
 ### 🛠 Stack
 
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Web**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Mobile**
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![EAS](https://img.shields.io/badge/EAS-4630EB?style=flat-square&logo=expo&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollographql&logoColor=white)
-
-**Data**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square)
-
-**Tooling & product**
-
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![RevenueCat](https://img.shields.io/badge/RevenueCat-F25A5A?style=flat-square&logo=revenuecat&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-
-**AI & agents**
-
-![Anthropic](https://img.shields.io/badge/Anthropic_SDK-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+| Area | Tech |
+|---|---|
+| **Languages** | TypeScript · JavaScript · Python · SQL |
+| **Mobile** | React Native · Expo · Expo Router · EAS · UniWind / NativeWind · Zustand · Reanimated · MMKV · SQLite |
+| **Web** | Next.js · React · Tailwind · TanStack Query · tRPC |
+| **Backend** | Node.js · NestJS · GraphQL · Apollo · Firebase Functions · Cloud Run |
+| **Data** | PostgreSQL · Prisma · Drizzle · Firestore · DynamoDB |
+| **Payments & monetisation** | Razorpay · RevenueCat · Stripe · UPI · AdMob |
+| **Auth** | Clerk · Firebase Auth · Passport · JWT · Google OAuth |
+| **Infra & tooling** | Docker · AWS (S3, SES) · Turborepo · pnpm · GitHub Actions · Jest · Vitest · ESLint |
+| **Observability** | Sentry · PostHog |
+| **AI & agents** | Anthropic SDK · MCP · tool use · prompt caching |
 
 ---
 
