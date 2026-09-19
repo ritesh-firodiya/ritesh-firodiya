@@ -51,6 +51,13 @@ Track what you spend, split anything with friends and flatmates, and settle up o
 [![iOS Beta](https://img.shields.io/badge/Join_iOS_Beta-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://testflight.apple.com/join/S45tHrsf)
 ![Android](https://img.shields.io/badge/Android-closed_testing-414141?style=flat-square&logo=android&logoColor=white)
 
+**Imposter: Find the Liar** — *social deduction for 3–20 people on one phone*<br/>
+Most players see a secret word. The Imposter sees only a one-word hint, hand-written for every single word. Mr. White sees nothing at all and can still steal the round after he is caught. No ads, no subscription, ever.<br/>
+`React Native` `Expo` `TypeScript` `RevenueCat`
+
+[![Android Beta](https://img.shields.io/badge/Join_Android_Beta-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/apps/testing/com.ritvi.imposter)
+![iOS](https://img.shields.io/badge/iOS-internal_TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white)
+
 **AskCal** — *AI calorie counter that admits what it can't see*<br/>
 Every camera-first calorie app turns a photo into one confident number, but a photo cannot show the oil a dish was cooked in. AskCal marks each value Seen, Guessed or Unknown, resolves against USDA data, and asks one or two questions instead of guessing.<br/>
 `Expo` `React Native` `UniWind` `Firebase` `RevenueCat`
@@ -62,7 +69,6 @@ Every camera-first calorie app turns a photo into one confident number, but a ph
 
 | Project | What it is |
 |---|---|
-| **Imposter: Find the Liar** | Social deduction for 3–20 people on one phone. Every word has a hand-written one-word hint. No ads, no subscription, ever. |
 | **[Scrvio](https://scrvio.com)** | Privacy-first browser screen recorder — record with no install or sign-up, then keep recordings in your own S3 bucket. Site live; product in build. |
 | **Dwarseva** | Map-based property listings for India, with a prepaid wallet and a ₹5-per-action friction filter. Every listing human-verified. |
 | **Plan-Kid** | Parenthood journey app for couples in India — pre-decision through parenting. Design and product stage. |
