@@ -20,58 +20,21 @@
 
 Products under **[Ritvi Apps](https://github.com/ritvi-apps)** and my own ventures. Source repos are private — the links below are the shipped builds.
 
-#### 🟢 Live
+| App | What it is | Android | iOS | Web |
+|---|---|:--|:--|:--|
+| **Chitragupt** (चित्रगुप्त) | Household tax review for salaried Indian filers. Form 16 in, both regimes compared side by side, refund out. | – | – | 🟢 **[chitragupt.ai](https://chitragupt.ai)** |
+| **Charades — Act it Out!** | Offline party game. 5,149 cards across Bollywood, Tollywood, Hollywood and Family & Kids, no daily limits. | 🟢 **[Play Store](https://play.google.com/store/apps/details?id=com.riteshf.charadesbollywood)** | 🧪 [Public beta](https://testflight.apple.com/join/fBBEpk9h) | – |
+| **Tic Tac Toe — 2 Player XO** | The classic 3×3. Two players on one device, or a minimax AI that plays perfectly on Hard. | 🟢 **[Play Store](https://play.google.com/store/apps/details?id=com.riteshf.tictactoe)** | 🧪 [Public beta](https://testflight.apple.com/join/uryk8DSa) | – |
+| **Imposter: Find the Liar** | Social deduction for 3–20 people on one phone. Every word has a hand-written one-word hint. No ads, no subscription, ever. | 🧪 **[Join the beta](https://play.google.com/apps/testing/com.ritvi.imposter)** | 🔒 Internal only | – |
+| **Aakalan** (आकलन) | Your expenses and everyone else's on one ledger. Split with friends and flatmates, settle over UPI. | 🔒 Closed testing | 🧪 **[Join the beta](https://testflight.apple.com/join/S45tHrsf)** | – |
+| **AskCal** | AI calorie counter that admits what it can't see. Marks each value Seen, Guessed or Unknown rather than inventing one number. | 🟡 In review | ⚪ Not built yet | – |
+| **Scrvio** | Privacy-first browser screen recorder. No install, no sign-up, and recordings stay in your own S3 bucket. | – | – | 🔨 [scrvio.com](https://scrvio.com) |
+| **Dwarseva** | Map-based property listings for India, with a ₹5-per-action friction filter. Every listing human-verified. | 🔨 In design | 🔨 In design | – |
+| **Plan-Kid** | Parenthood journey app for couples in India — pre-decision through parenting. | 🔨 In design | 🔨 In design | – |
 
-**[Chitragupt](https://chitragupt.ai)** (चित्रगुप्त) — *household tax review for salaried Indian filers*<br/>
-Upload Form 16, see your tax under both regimes side by side, run a 15-question Quick Check, and print the refund you can claim. Household lens for spouse, parents and kids.<br/>
-`Next.js` `Cloud Run` `Firebase Functions` `Firestore` `Zod` `Turborepo`
+<sub>🟢 live · 🧪 public beta, anyone can join · 🔒 restricted testing · 🟡 awaiting store review · ⚪ not built · 🔨 in development</sub>
 
-[![Website](https://img.shields.io/badge/chitragupt.ai-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chitragupt.ai)
-
-**Charades — Act it Out!** — *offline party game, 5,149 cards*<br/>
-Bollywood, Tollywood, Hollywood and Family & Kids. Fully offline, no daily limits.<br/>
-`React Native` `Expo Router` `UniWind` `Zustand` `RevenueCat`
-
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.riteshf.charadesbollywood)
-[![iOS Beta](https://img.shields.io/badge/iOS_Beta-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://testflight.apple.com/join/fBBEpk9h)
-
-**Tic Tac Toe — 2 Player XO** — *the classic 3×3, done properly*<br/>
-Two players on one device, or a minimax AI that plays perfectly on Hard.<br/>
-`Expo Router` `React Native` `UniWind` `Zustand`
-
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.riteshf.tictactoe)
-[![iOS Beta](https://img.shields.io/badge/iOS_Beta-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://testflight.apple.com/join/uryk8DSa)
-
-#### 🧪 In testing — testers welcome
-
-**Aakalan** (आकलन) — *your expenses and everyone else's, on one ledger*<br/>
-Track what you spend, split anything with friends and flatmates, and settle up over UPI without leaving the app.<br/>
-`Expo` `React Native` `Firestore` `RevenueCat`
-
-[![iOS Beta](https://img.shields.io/badge/Join_iOS_Beta-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://testflight.apple.com/join/S45tHrsf)
-![Android](https://img.shields.io/badge/Android-closed_testing-414141?style=flat-square&logo=android&logoColor=white)
-
-**Imposter: Find the Liar** — *social deduction for 3–20 people on one phone*<br/>
-Most players see a secret word. The Imposter sees only a one-word hint, hand-written for every single word. Mr. White sees nothing at all and can still steal the round after he is caught. No ads, no subscription, ever.<br/>
-`React Native` `Expo` `TypeScript` `RevenueCat`
-
-[![Android Beta](https://img.shields.io/badge/Join_Android_Beta-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/apps/testing/com.ritvi.imposter)
-![iOS](https://img.shields.io/badge/iOS-internal_TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white)
-
-**AskCal** — *AI calorie counter that admits what it can't see*<br/>
-Every camera-first calorie app turns a photo into one confident number, but a photo cannot show the oil a dish was cooked in. AskCal marks each value Seen, Guessed or Unknown, resolves against USDA data, and asks one or two questions instead of guessing.<br/>
-`Expo` `React Native` `UniWind` `Firebase` `RevenueCat`
-
-![Status](https://img.shields.io/badge/Play-in_review-F9AB00?style=flat-square&logo=googleplay&logoColor=white)
-![Status](https://img.shields.io/badge/App_Store-first_build_submitted-0D96F6?style=flat-square&logo=apple&logoColor=white)
-
-#### 🔨 Building
-
-| Project | What it is |
-|---|---|
-| **[Scrvio](https://scrvio.com)** | Privacy-first browser screen recorder — record with no install or sign-up, then keep recordings in your own S3 bucket. Site live; product in build. |
-| **Dwarseva** | Map-based property listings for India, with a prepaid wallet and a ₹5-per-action friction filter. Every listing human-verified. |
-| **Plan-Kid** | Parenthood journey app for couples in India — pre-decision through parenting. Design and product stage. |
+<sub>Mobile apps are React Native + Expo with RevenueCat and Firebase. Chitragupt is Next.js on Cloud Run over Firebase Functions; Scrvio is NestJS + Next.js on Postgres.</sub>
 
 ---
 
