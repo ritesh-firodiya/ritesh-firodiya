@@ -4,7 +4,7 @@
 
 <p align="center">
   ~9 years shipping production TypeScript across web, mobile and backend.<br/>
-  Now building small, focused mobile apps for India — and agent tooling on the Anthropic SDK + MCP.
+  Now building my own products for India — web and mobile — and agent tooling on the Anthropic SDK + MCP.
 </p>
 
 <p align="center">
@@ -16,16 +16,56 @@
 
 ---
 
-### 📱 What I'm shipping
+### 🚀 What I'm building
 
-Mobile apps under **[Ritvi Apps](https://github.com/ritvi-apps)** — React Native and Expo, RevenueCat for purchases, Firebase on the backend. Source is private.
+Products under **[Ritvi Apps](https://github.com/ritvi-apps)** and my own ventures. Source repos are private — the links below are the shipped builds.
 
-| App | What it is | Status |
-|---|---|---|
-| **[Charades — Act it Out!](https://play.google.com/store/apps/details?id=com.riteshf.charadesbollywood)** | Offline party game. 5,149 cards across Bollywood, Tollywood, Hollywood and Family & Kids — no daily limits. | 🟢 Live on Play Store · iOS staged |
-| **AskCal** | AI calorie counter. Photograph a meal, get an honest estimate — it marks what the camera couldn't establish and asks one or two questions instead of guessing. | 🟡 In store review |
-| **Imposter: Find the Liar** | Social deduction party game for 3–20 people on one phone. Hand-written hints for every word. No ads, no subscription, ever. | 🟠 In build |
-| **Chitragupt** (चित्रगुप्त) | Personal tax ledger for Indian filers. Next.js on Cloud Run with ~189 Firebase Functions, broker-statement parsing and Zod contracts. | 🔵 In development |
+#### 🟢 Live
+
+**[Chitragupt](https://chitragupt.ai)** (चित्रगुप्त) — *household tax review for salaried Indian filers*<br/>
+Upload Form 16, see your tax under both regimes side by side, run a 15-question Quick Check, and print the refund you can claim. Household lens for spouse, parents and kids.<br/>
+`Next.js` `Cloud Run` `Firebase Functions` `Firestore` `Zod` `Turborepo`
+
+[![Website](https://img.shields.io/badge/chitragupt.ai-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chitragupt.ai)
+
+**Charades — Act it Out!** — *offline party game, 5,149 cards*<br/>
+Bollywood, Tollywood, Hollywood and Family & Kids. Fully offline, no daily limits.<br/>
+`React Native` `Expo Router` `UniWind` `Zustand` `RevenueCat`
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.riteshf.charadesbollywood)
+[![iOS Beta](https://img.shields.io/badge/iOS_Beta-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://testflight.apple.com/join/fBBEpk9h)
+
+**Tic Tac Toe — 2 Player XO** — *the classic 3×3, done properly*<br/>
+Two players on one device, or a minimax AI that plays perfectly on Hard.<br/>
+`Expo Router` `React Native` `UniWind` `Zustand`
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.riteshf.tictactoe)
+[![iOS Beta](https://img.shields.io/badge/iOS_Beta-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://testflight.apple.com/join/uryk8DSa)
+
+#### 🧪 In testing — testers welcome
+
+**Aakalan** (आकलन) — *your expenses and everyone else's, on one ledger*<br/>
+Track what you spend, split anything with friends and flatmates, and settle up over UPI without leaving the app.<br/>
+`Expo` `React Native` `Firestore` `RevenueCat`
+
+[![iOS Beta](https://img.shields.io/badge/Join_iOS_Beta-0D96F6?style=flat-square&logo=apple&logoColor=white)](https://testflight.apple.com/join/S45tHrsf)
+![Android](https://img.shields.io/badge/Android-closed_testing-414141?style=flat-square&logo=android&logoColor=white)
+
+**AskCal** — *AI calorie counter that admits what it can't see*<br/>
+Every camera-first calorie app turns a photo into one confident number, but a photo cannot show the oil a dish was cooked in. AskCal marks each value Seen, Guessed or Unknown, resolves against USDA data, and asks one or two questions instead of guessing.<br/>
+`Expo` `React Native` `UniWind` `Firebase` `RevenueCat`
+
+![Status](https://img.shields.io/badge/Play-in_review-F9AB00?style=flat-square&logo=googleplay&logoColor=white)
+![Status](https://img.shields.io/badge/App_Store-first_build_submitted-0D96F6?style=flat-square&logo=apple&logoColor=white)
+
+#### 🔨 Building
+
+| Project | What it is |
+|---|---|
+| **Imposter: Find the Liar** | Social deduction for 3–20 people on one phone. Every word has a hand-written one-word hint. No ads, no subscription, ever. |
+| **[Scrvio](https://scrvio.com)** | Privacy-first browser screen recorder — record with no install or sign-up, then keep recordings in your own S3 bucket. Site live; product in build. |
+| **Dwarseva** | Map-based property listings for India, with a prepaid wallet and a ₹5-per-action friction filter. Every listing human-verified. |
+| **Plan-Kid** | Parenthood journey app for couples in India — pre-decision through parenting. Design and product stage. |
 
 ---
 
