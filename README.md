@@ -18,23 +18,27 @@
 
 ### 🚀 What I'm building
 
-Products under **[Ritvi Apps](https://github.com/ritvi-apps)** and my own ventures. Source repos are private — the links below are the shipped builds.
+Products under **[Ritvi Apps](https://github.com/ritvi-apps)**, my own ventures, and side work. Source repos are private — the links below are the shipped builds.
 
-| App | What it is | Android | iOS | Web |
+| Project | What it is | Android | iOS | Web |
 |---|---|:--|:--|:--|
-| **Chitragupt** (चित्रगुप्त) | Household tax review for salaried Indian filers. Form 16 in, both regimes compared side by side, refund out. | – | – | 🟢 **[chitragupt.ai](https://chitragupt.ai)** |
-| **Charades — Act it Out!** | Offline party game. 5,149 cards across Bollywood, Tollywood, Hollywood and Family & Kids, no daily limits. | 🟢 **[Play Store](https://play.google.com/store/apps/details?id=com.riteshf.charadesbollywood)** | 🧪 [Public beta](https://testflight.apple.com/join/fBBEpk9h) | – |
+| **Chitragupt** (चित्रगुप्त) | Household tax review for salaried Indian filers. Form 16 in, both regimes compared side by side, refund out. | 🔒 Internal | – | 🟢 **[chitragupt.ai](https://chitragupt.ai)** |
+| **Learning Platform** | LMS where course content is authored as markdown in a Git repo and synced into the product on push. | – | – | 🟢 **[Live](https://learning-platform-web-gamma.vercel.app/)** |
+| **Charades — Act it Out!** | Offline party game. 5,149 cards across Bollywood, Tollywood, Hollywood and Family & Kids. | 🟢 **[Play Store](https://play.google.com/store/apps/details?id=com.riteshf.charadesbollywood)** | 🧪 [Public beta](https://testflight.apple.com/join/fBBEpk9h) | – |
 | **Tic Tac Toe — 2 Player XO** | The classic 3×3. Two players on one device, or a minimax AI that plays perfectly on Hard. | 🟢 **[Play Store](https://play.google.com/store/apps/details?id=com.riteshf.tictactoe)** | 🧪 [Public beta](https://testflight.apple.com/join/uryk8DSa) | – |
-| **Imposter: Find the Liar** | Social deduction for 3–20 people on one phone. Every word has a hand-written one-word hint. No ads, no subscription, ever. | 🧪 **[Join the beta](https://play.google.com/apps/testing/com.ritvi.imposter)** | 🔒 Internal only | – |
+| **Imposter: Find the Liar** | Social deduction for 3–20 people on one phone. Every word has a hand-written one-word hint. No ads, no subscription, ever. | 🧪 **[Join the beta](https://play.google.com/apps/testing/com.ritvi.imposter)** | 🔒 Internal | – |
 | **Aakalan** (आकलन) | Your expenses and everyone else's on one ledger. Split with friends and flatmates, settle over UPI. | 🔒 Closed testing | 🧪 **[Join the beta](https://testflight.apple.com/join/S45tHrsf)** | – |
 | **AskCal** | AI calorie counter that admits what it can't see. Marks each value Seen, Guessed or Unknown rather than inventing one number. | 🟡 In review | ⚪ Not built yet | – |
 | **Scrvio** | Privacy-first browser screen recorder. No install, no sign-up, and recordings stay in your own S3 bucket. | – | – | 🔨 [scrvio.com](https://scrvio.com) |
-| **Dwarseva** | Map-based property listings for India, with a ₹5-per-action friction filter. Every listing human-verified. | 🔨 In design | 🔨 In design | – |
+| **Trunk** | Product-development platform where every change is a delta — issues, docs, signals and feature flags in one tool instead of five. | – | – | 🔨 Building |
+| **DwarSeva — Societies** | Society management: visitor check-ins, community events, service requests, payments and staff attendance. | 🔨 Building | 🔨 Building | 🔨 Building |
+| **DwarSeva — Property** | Map-based property listings for India, with a ₹5-per-action friction filter. Every listing human-verified. | 🔨 In design | 🔨 In design | – |
+| **tradx** | India-focused trading research and paper-trading control centre. Ships paper-only by default; live orders stay gated. | – | – | 🔨 Building |
 | **Plan-Kid** | Parenthood journey app for couples in India — pre-decision through parenting. | 🔨 In design | 🔨 In design | – |
 
 <sub>🟢 live · 🧪 public beta, anyone can join · 🔒 restricted testing · 🟡 awaiting store review · ⚪ not built · 🔨 in development</sub>
 
-<sub>Mobile apps are React Native + Expo with RevenueCat and Firebase. Chitragupt is Next.js on Cloud Run over Firebase Functions; Scrvio is NestJS + Next.js on Postgres.</sub>
+<sub>Mobile is React Native + Expo with RevenueCat and Firebase. Chitragupt is Next.js on Cloud Run over Firebase Functions; Learning Platform, Scrvio and DwarSeva are NestJS + Next.js on Postgres; Trunk and tradx are Next.js on a Turborepo.</sub>
 
 ---
 
