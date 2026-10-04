@@ -78,6 +78,6 @@ B.E. Computer Engineering — P.V.G. College of Engineering and Technology, 2013
 
 ### 📫 Get in touch
 
-Open to **senior / staff IC and tech-lead roles**, and always up for a conversation about engineering, product or AI tooling.
+Always up for a conversation about engineering, product or AI tooling.
 
 📍 Pune, India &nbsp;·&nbsp; ✉️ [firodiya.ritesh@gmail.com](mailto:firodiya.ritesh@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/riteshfirodiya/) &nbsp;·&nbsp; 🌐 [ritesh-firodiya.github.io](https://ritesh-firodiya.github.io/)
