@@ -4,7 +4,7 @@
 
 <p align="center">
   ~9 years shipping production TypeScript across web, mobile and backend.<br/>
-  Now building my own products for India — web and mobile — and agent tooling on the Anthropic SDK + MCP.
+  Now building my own products — web and mobile — and agent tooling on the Anthropic SDK + MCP.
 </p>
 
 <p align="center">
@@ -32,9 +32,9 @@ Products under **[Ritvi Apps](https://github.com/ritvi-apps)**, my own ventures,
 | **Scrvio** | Privacy-first browser screen recorder. No install, no sign-up, and recordings stay in your own S3 bucket. | – | – | 🔨 [scrvio.com](https://scrvio.com) |
 | **Trunk** | Product-development platform where every change is a delta — issues, docs, signals and feature flags in one tool instead of five. | – | – | 🔨 Building |
 | **DwarSeva — Societies** | Society management: visitor check-ins, community events, service requests, payments and staff attendance. | 🔨 Building | 🔨 Building | 🔨 Building |
-| **DwarSeva — Property** | Map-based property listings for India, with a ₹5-per-action friction filter. Every listing human-verified. | 🔨 In design | 🔨 In design | – |
+| **DwarSeva — Property** | Map-based property listings, with a ₹5-per-action friction filter. Every listing human-verified. | 🔨 In design | 🔨 In design | – |
 | **tradx** | India-focused trading research and paper-trading control centre. Ships paper-only by default; live orders stay gated. | – | – | 🔨 Building |
-| **Plan-Kid** | Parenthood journey app for couples in India — pre-decision through parenting. | 🔨 In design | 🔨 In design | – |
+| **Plan-Kid** | Parenthood journey app for couples — pre-decision through parenting. | 🔨 In design | 🔨 In design | – |
 
 <sub>🟢 live · 🧪 public beta, anyone can join · 🔒 restricted testing · 🟡 awaiting store review · ⚪ not built · 🔨 in development</sub>
 
