@@ -27,8 +27,8 @@ Rules, searchable decisions and a decision gate for teams that build with Claude
 - **Turns hard rules into checks.** `zeno check` fails on a broken layout, a stale copy, or an import that crosses a repo's architecture.
 
 ```bash
-claude plugin marketplace add ritesh-firodiya/zeno-ai && claude plugin install zeno@zeno
-npm install -g zeno-ai
+claude plugin marketplace add ritesh-firodiya/zeno-ai
+claude plugin install zeno@zeno
 ```
 
 ---
