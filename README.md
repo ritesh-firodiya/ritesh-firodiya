@@ -4,7 +4,7 @@
 
 <p align="center">
   ~9 years shipping production TypeScript across web, mobile and backend.<br/>
-  Now building my own products, and <a href="https://github.com/ritesh-firodiya/zeno-ai"><b>zeno</b></a>, the open-source tool that keeps all of them consistent.
+  Now building my own products, and <a href="https://github.com/ritesh-firodiya/zeno"><b>zeno</b></a>, the open-source tool that keeps all of them consistent.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ### ⭐ zeno — open source
 
-**[ritesh-firodiya/zeno-ai](https://github.com/ritesh-firodiya/zeno-ai)** · Claude Code plugin + CLI · MIT
+**[ritesh-firodiya/zeno](https://github.com/ritesh-firodiya/zeno)** · Claude Code plugin + CLI · MIT
 
 Rules, searchable decisions and a decision gate for teams that build with Claude Code. It runs on all 15 of my product repos.
 
@@ -27,7 +27,7 @@ Rules, searchable decisions and a decision gate for teams that build with Claude
 - **Turns hard rules into checks.** `zeno check` fails on a broken layout, a stale copy, or an import that crosses a repo's architecture.
 
 ```bash
-claude plugin marketplace add ritesh-firodiya/zeno-ai
+claude plugin marketplace add ritesh-firodiya/zeno
 claude plugin install zeno@zeno
 npm install -g @freetesh/zeno
 ```
