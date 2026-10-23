@@ -4,7 +4,7 @@
 
 <p align="center">
   ~9 years shipping production TypeScript across web, mobile and backend.<br/>
-  Now building my own products, and <a href="https://github.com/ritesh-firodiya/zeno"><b>zeno</b></a>, the open-source tool that keeps all of them consistent.
+  Now building my own products, and <a href="https://github.com/ritesh-firodiya/zeno"><b>zeno</b></a>, the open-source tool that keeps AI to my rules across all of them.
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 **[ritesh-firodiya/zeno](https://github.com/ritesh-firodiya/zeno)** · Claude Code plugin + CLI · MIT
 
-Rules, searchable decisions and a decision gate for teams that build with Claude Code. It runs on all 15 of my product repos.
+A productivity tool for the product development lifecycle. It keeps your domain knowledge and AI rules in your repo and enforces them, so the AI hallucinates less and you ship faster. It runs on all 15 of my product repos.
 
 - **Weighs a request before acting.** Claude answers DO IT, DO IT DIFFERENTLY or PUSH BACK, and every reason cites a principle and a file.
 - **Finds what was decided.** Every wiki and decision record is indexed for local search, so a settled choice stays settled.
