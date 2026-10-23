@@ -29,6 +29,7 @@ Rules, searchable decisions and a decision gate for teams that build with Claude
 ```bash
 claude plugin marketplace add ritesh-firodiya/zeno-ai
 claude plugin install zeno@zeno
+npm install -g @freetesh/zeno
 ```
 
 ---
