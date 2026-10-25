@@ -20,9 +20,10 @@
 
 **[ritesh-firodiya/zeno](https://github.com/ritesh-firodiya/zeno)** · Claude Code plugin + CLI · MIT
 
-A productivity tool for the product development lifecycle. It keeps your domain knowledge and AI rules in your repo and enforces them, so the AI hallucinates less and you ship faster. It runs on all 15 of my product repos.
+Facts, not assumptions. zeno keeps your domain knowledge and AI rules in your repo and enforces them, so the AI guesses less and you redo less work. It runs on all 15 of my product repos.
 
 - **Weighs a request before acting.** Claude answers DO IT, DO IT DIFFERENTLY or PUSH BACK, and every reason cites a principle and a file.
+- **Checks every claim against facts.** "Users want this" is marked backed or not, from the repo or a data source like Sentry. Work that rests on a guess stops until you agree to written terms.
 - **Finds what was decided.** Every wiki and decision record is indexed for local search, so a settled choice stays settled.
 - **Turns hard rules into checks.** `zeno check` fails on a broken layout, a stale copy, or an import that crosses a repo's architecture.
 
