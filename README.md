@@ -4,7 +4,7 @@
 
 <p align="center">
   ~9 years shipping production TypeScript across web, mobile and backend.<br/>
-  Now building my own products, and <b>canon</b>, the tool that keeps AI to my rules across all of them.
+  Now building my own products, and <a href="https://github.com/ritesh-firodiya/canon-cli"><b>canon</b></a>, the open-source tool that keeps AI to my rules across all of them.
 </p>
 
 <p align="center">
@@ -16,9 +16,9 @@
 
 ---
 
-### ⭐ canon
+### ⭐ canon — open source
 
-Claude Code plugin + CLI · private for now
+**[ritesh-firodiya/canon-cli](https://github.com/ritesh-firodiya/canon-cli)** · Claude Code plugin + CLI · MIT
 
 Facts, not assumptions. canon keeps your domain knowledge and AI rules in your repo and enforces them, so the AI guesses less and you redo less work. It runs on all 15 of my product repos.
 
@@ -26,6 +26,12 @@ Facts, not assumptions. canon keeps your domain knowledge and AI rules in your r
 - **Checks every claim against facts.** "Users want this" is marked backed or not, from the repo or a data source like Sentry. Work that rests on a guess stops until you agree to written terms.
 - **Finds what was decided.** Every wiki and decision record is indexed for local search, so a settled choice stays settled.
 - **Turns hard rules into checks.** `canon check` fails on a broken layout, a stale copy, or an import that crosses a repo's architecture.
+
+```bash
+claude plugin marketplace add ritesh-firodiya/canon-cli
+claude plugin install canon@canon
+npm install -g @freetesh/canon
+```
 
 ---
 
