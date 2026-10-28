@@ -50,7 +50,7 @@ Products under **[Ritvi Apps](https://github.com/ritvi-apps)**. Source repos are
 | **Chess** | The whole game, on one phone. | 🔒 [Closed test](https://play.google.com/apps/testing/com.riteshf.chess) | 🟡 [TestFlight](https://testflight.apple.com/join/XjytTyb1), in beta review | – |
 | **Chitragupt** (चित्रगुप्त) | Household tax review for salaried Indian filers. Form 16 in, both regimes side by side, a CA-ready PDF out. | – | – | 🟡 **[chitragupt.ai](https://chitragupt.ai)** pre-launch |
 | **Scrvio** | Privacy-first browser screen recorder. No install, no sign-up; recordings stay in your own S3 bucket. | – | – | 🟡 [scrvio.com](https://scrvio.com) |
-| **Babul** | Your design and your product, always in sync. | – | – | 🔨 Building |
+| **Babul** | Your design and your product, always in sync. | – | – | 🟡 [Staging](https://babul-staging.vercel.app) |
 | **DwarSeva** | Society management: visitor check-ins, approvals, events, service requests and payments. | 🔨 Building | 🔨 Building | 🟡 [dwarseva.com](https://dwarseva.com) |
 | **tradx** | Trading research and paper-trading control centre. Paper-only by default; live orders stay gated. | – | – | 🔨 Building |
 | **Seedha Ghar** | Map-based property listings, every listing human-verified. | ✏️ In design | ✏️ In design | ✏️ In design |
