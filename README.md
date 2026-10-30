@@ -43,7 +43,7 @@ Products under **[Ritvi Apps](https://github.com/ritvi-apps)**. Source repos are
 |---|---|:--|:--|:--|
 | **AskCal** | AI calorie counter that admits what it can't see: each value is marked Seen, Guessed or Unknown. | 🔒 [Closed test](https://play.google.com/apps/testing/com.riteshf.askcal) | 🟡 In App Store review | – |
 | **Babul** | Your design and your product, always in sync. | – | – | 🟡 [Staging](https://babul-staging.vercel.app) |
-| **canon** | Every repo's rules, decisions and knowledge in one private docs workspace. The paid site on top of the open-source canon-cli. | – | – | 🟡 [Staging](https://canon-gules-two.vercel.app) (private) |
+| **canon** | Every repo's rules, decisions and knowledge in one private docs workspace. The paid site on top of the open-source canon-cli. | – | – | 🟡 [Staging](https://canon-869060431532.asia-southeast1.run.app) |
 | **Chitragupt** (चित्रगुप्त) | Household tax review for salaried Indian filers. Form 16 in, both regimes side by side, a CA-ready PDF out. | – | – | 🟡 **[chitragupt.ai](https://chitragupt.ai)** pre-launch |
 | **Imposter: Find the Liar** | Social deduction for 3–20 people on one phone. Every word has a hand-written hint. | 🔒 [Closed test](https://play.google.com/apps/testing/com.ritvi.imposter) | 🟡 In App Store review | – |
 | **Charades — Act it Out!** | Offline party game for the room you are already in. Bollywood, Tollywood, Hollywood and Family & Kids decks. | 🟢 **[Play Store](https://play.google.com/store/apps/details?id=com.riteshf.charadesbollywood)** | 🟢 **[App Store](https://apps.apple.com/in/app/charades-act-it-out-party/id6811345858)** | – |
