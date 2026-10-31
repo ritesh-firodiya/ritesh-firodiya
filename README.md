@@ -4,7 +4,7 @@
 
 <p align="center">
   ~9 years shipping production TypeScript across web, mobile and backend.<br/>
-  Now building my own products, and <a href="https://github.com/ritesh-firodiya/canon-cli"><b>canon</b></a>, the open-source tool that keeps AI to my rules across all of them.
+  Senior Software Engineer at Zendesk. On the side, as a hobby, I build apps and <a href="https://github.com/ritesh-firodiya/canon-cli"><b>canon</b></a>, the open-source tool that keeps AI to my rules across all of them.
 </p>
 
 <p align="center">
@@ -35,9 +35,9 @@ npm install -g @freetesh/canon
 
 ---
 
-### 🚀 What I'm building
+### 🚀 Side projects
 
-Products under **[Ritvi Apps](https://github.com/ritvi-apps)**. Source repos are private; the links are the shipped builds. Each project has its own page, screens and wiki on **[my portfolio](https://ritesh-firodiya.github.io/)**.
+Hobby projects under **[Ritvi Apps](https://github.com/ritvi-apps)**. Source repos are private; the links are the shipped builds. Each project has its own page, screens and wiki on **[my portfolio](https://ritesh-firodiya.github.io/)**.
 
 | Project | What it is | Android | iOS | Web |
 |---|---|:--|:--|:--|
