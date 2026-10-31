@@ -85,6 +85,7 @@ Products under **[Ritvi Apps](https://github.com/ritvi-apps)**. Source repos are
 
 | | Role | When |
 |---|---|---|
+| **[Zendesk](https://www.zendesk.com/)** | Senior Software Engineer | May 2026 – Present |
 | **[Walmart](https://www.walmart.com/)** | Senior Software Engineer | Apr 2025 – May 2026 |
 | **[TopLegal](http://top.legal/)** | Tech Lead & Full-Stack Engineer | Jul 2024 – Jan 2025 |
 | **[ManifestIT](https://www.manifestit.io/)** | Senior Frontend Engineer | Oct 2023 – May 2024 |
