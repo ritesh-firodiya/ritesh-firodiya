@@ -41,16 +41,16 @@ Products under **[Ritvi Apps](https://github.com/ritvi-apps)**. Source repos are
 
 | Project | What it is | Android | iOS | Web |
 |---|---|:--|:--|:--|
-| **AskCal** | AI calorie counter that admits what it can't see: each value is marked Seen, Guessed or Unknown. | 🔒 [Closed test](https://play.google.com/apps/testing/com.riteshf.askcal) | 🟡 In App Store review | – |
+| **AskCal** | AI calorie counter that admits what it can't see: each value is marked Seen, Guessed or Unknown. | 🟡 In Play review · [closed test](https://play.google.com/apps/testing/com.riteshf.askcal) | 🟡 In App Store review | – |
 | **Babul** | Your design and your product, always in sync. | – | – | 🟡 [Staging](https://babul-staging.vercel.app) |
 | **canon** | Every repo's rules, decisions and knowledge in one private docs workspace. The paid site on top of the open-source canon-cli. | – | – | 🟡 [Staging](https://canon-869060431532.asia-southeast1.run.app) |
 | **Chitragupt** (चित्रगुप्त) | Household tax review for salaried Indian filers. Form 16 in, both regimes side by side, a CA-ready PDF out. | – | – | 🟡 **[chitragupt.ai](https://chitragupt.ai)** pre-launch |
-| **Imposter: Find the Liar** | Social deduction for 3–20 people on one phone. Every word has a hand-written hint. | 🔒 [Closed test](https://play.google.com/apps/testing/com.ritvi.imposter) | 🟡 In App Store review | – |
-| **Charades — Act it Out!** | Offline party game for the room you are already in. Bollywood, Tollywood, Hollywood and Family & Kids decks. | 🟢 **[Play Store](https://play.google.com/store/apps/details?id=com.riteshf.charadesbollywood)** | 🟢 **[App Store](https://apps.apple.com/in/app/charades-act-it-out-party/id6811345858)** | – |
+| **Imposter: Find the Liar** | Social deduction for 3–20 people on one phone. Every word has a hand-written hint. | 🔒 [Closed test](https://play.google.com/apps/testing/com.ritvi.imposter) | 🟢 **[App Store](https://apps.apple.com/in/app/imposter-find-the-liar/id6811995450)** | – |
+| **Dumb Charades** | Offline party game for the room you are already in. Bollywood, Tollywood, Hollywood and Family & Kids decks. | 🟢 **[Play Store](https://play.google.com/store/apps/details?id=com.riteshf.charadesbollywood)** | 🟢 **[App Store](https://apps.apple.com/in/app/dumb-charades-movie-party/id6811345858)** | – |
 | **Aakalan** (आकलन) | Your expenses and everyone else's on one ledger. Split with friends and flatmates, settle over UPI. | 🔒 Closed testing | 🧪 **[Public beta](https://testflight.apple.com/join/S45tHrsf)** | – |
 | **Tic Tac Toe** | The classic 3×3. Two players on one device, or a minimax AI that plays perfectly on Hard. | 🟢 **[Play Store](https://play.google.com/store/apps/details?id=com.riteshf.tictactoe)** | 🟢 **[App Store](https://apps.apple.com/in/app/tic-tac-toe-classic-xo/id6811345763)** | – |
 | **Learning Platform** | An LMS where courses are Markdown in a Git repo, synced into the product on push. | – | – | 🟢 **[Live demo](https://learning-platform-web-gamma.vercel.app/)** |
-| **Chess** | The whole game, on one phone. | 🔒 [Closed test](https://play.google.com/apps/testing/com.riteshf.chess) | 🟡 [TestFlight](https://testflight.apple.com/join/XjytTyb1), in beta review | – |
+| **Chess** | The whole game, on one phone. | 🔒 [Closed test](https://play.google.com/apps/testing/com.riteshf.chess) | 🟡 In App Store review · 🧪 [public beta](https://testflight.apple.com/join/XjytTyb1) | – |
 | **Scrvio** | Privacy-first browser screen recorder. No install, no sign-up; recordings stay in your own S3 bucket. | – | – | 🟡 [scrvio.com](https://scrvio.com) |
 | **DwarSeva** | Society management: visitor check-ins, approvals, events, service requests and payments. | 🔨 Building | 🔨 Building | 🟡 [dwarseva.com](https://dwarseva.com) |
 | **tradx** | Trading research and paper-trading control centre. Paper-only by default; live orders stay gated. | – | – | 🔨 Building |
