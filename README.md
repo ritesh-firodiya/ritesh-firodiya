@@ -41,7 +41,7 @@ Hobby projects under **[Ritvi Apps](https://github.com/ritvi-apps)**. Source rep
 
 | Project | What it is | Android | iOS | Web |
 |---|---|:--|:--|:--|
-| **AskCal** | AI calorie counter that admits what it can't see: each value is marked Seen, Guessed or Unknown. | 🟡 In Play review · [closed test](https://play.google.com/apps/testing/com.riteshf.askcal) | 🟡 In App Store review | – |
+| **AskCal** | AI calorie counter that admits what it can't see: each value is marked Seen, Guessed or Unknown. | 🟢 **[Play Store](https://play.google.com/store/apps/details?id=com.riteshf.askcal)** | 🟡 In App Store review | – |
 | **Babul** | Your design and your product, always in sync. | – | – | 🟢 **[babul.dev](https://babul.dev)** |
 | **canon** | Every repo's rules, decisions and knowledge in one private docs workspace. The paid site on top of the open-source canon-cli. | – | – | 🟡 [Staging](https://canon-staging.babul.dev) |
 | **Chitragupt** (चित्रगुप्त) | Household tax review for salaried Indian filers. Form 16 in, both regimes side by side, a CA-ready PDF out. | – | – | 🟢 **[chitragupt.ai](https://chitragupt.ai)** |
@@ -54,6 +54,7 @@ Hobby projects under **[Ritvi Apps](https://github.com/ritvi-apps)**. Source rep
 | **Scrvio** | Privacy-first browser screen recorder. No install, no sign-up; recordings stay in your own S3 bucket. | – | – | 🟢 **[scrvio.com](https://scrvio.com)** |
 | **DwarSeva** | Society management: visitor check-ins, approvals, events, service requests and payments. | 🔨 Building | 🔨 Building | 🔨 Building |
 | **tradx** | Trading research and paper-trading control centre. Paper-only by default; live orders stay gated. | – | – | 🔨 Building |
+| **Reel** | Video maker: a script in, a video out. Marketing and demo videos with voice and music, rendered from Markdown in a product's repo. | – | – | 🔨 Building |
 | **Seedha Ghar** | Map-based property listings, every listing human-verified. | ✏️ In design | ✏️ In design | ✏️ In design |
 | **Plan-Kid** | Parenthood journey app for couples, from deciding to parenting. | ✏️ In design | ✏️ In design | – |
 | **Hamburg** | Cook, learn, remember. | – | – | ✏️ In design |
