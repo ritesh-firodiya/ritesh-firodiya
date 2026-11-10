@@ -41,7 +41,7 @@ Hobby projects under **[Ritvi Apps](https://github.com/ritvi-apps)**. Source rep
 
 | Project | What it is | Android | iOS | Web |
 |---|---|:--|:--|:--|
-| **AskCal** | AI calorie counter that admits what it can't see: each value is marked Seen, Guessed or Unknown. | 🟢 **[Play Store](https://play.google.com/store/apps/details?id=com.riteshf.askcal)** | 🟡 In App Store review | – |
+| **AskCal** | AI calorie counter that admits what it can't see: each value is marked Seen, Guessed or Unknown. | 🟢 **[Play Store](https://play.google.com/store/apps/details?id=com.riteshf.askcal)** | 🟢 **[App Store](https://apps.apple.com/app/askcal-ai-calorie-counter/id6811875320)** | – |
 | **Babul** | Your design and your product, always in sync. | – | – | 🟢 **[babul.dev](https://babul.dev)** |
 | **canon** | Every repo's rules, decisions and knowledge in one private docs workspace. The paid site on top of the open-source canon-cli. | – | – | 🟡 [Staging](https://canon-staging.babul.dev) |
 | **Chitragupt** (चित्रगुप्त) | Household tax review for salaried Indian filers. Form 16 in, both regimes side by side, a CA-ready PDF out. | – | – | 🟢 **[chitragupt.ai](https://chitragupt.ai)** |
@@ -50,7 +50,7 @@ Hobby projects under **[Ritvi Apps](https://github.com/ritvi-apps)**. Source rep
 | **Aakalan** (आकलन) | Your expenses and everyone else's on one ledger. Split with friends and flatmates, settle over UPI. | 🔒 Closed testing | 🧪 **[Public beta](https://testflight.apple.com/join/S45tHrsf)** | – |
 | **Tic Tac Toe** | The classic 3×3. Two players on one device, or a minimax AI that plays perfectly on Hard. | 🟢 **[Play Store](https://play.google.com/store/apps/details?id=com.riteshf.tictactoe)** | 🟢 **[App Store](https://apps.apple.com/in/app/tic-tac-toe-classic-xo/id6811345763)** | – |
 | **Learning Platform** | An LMS where courses are Markdown in a Git repo, synced into the product on push. | – | – | 🟢 **[Live demo](https://learning-platform-web-gamma.vercel.app/)** |
-| **Chess** | The whole game, on one phone. | 🔒 [Closed test](https://play.google.com/apps/testing/com.riteshf.chess) | 🟡 In App Store review · 🧪 [public beta](https://testflight.apple.com/join/XjytTyb1) | – |
+| **Chess** | The whole game, on one phone. | 🔒 [Closed test](https://play.google.com/apps/testing/com.riteshf.chess) | 🟢 **[App Store](https://apps.apple.com/app/askcal-ai-calorie-counter/id6811875320)** · 🧪 [public beta](https://testflight.apple.com/join/XjytTyb1) | – |
 | **Scrvio** | Privacy-first browser screen recorder. No install, no sign-up; recordings stay in your own S3 bucket. | – | – | 🟢 **[scrvio.com](https://scrvio.com)** |
 | **DwarSeva** | Society management: visitor check-ins, approvals, events, service requests and payments. | 🔨 Building | 🔨 Building | 🔨 Building |
 | **tradx** | Trading research and paper-trading control centre. Paper-only by default; live orders stay gated. | – | – | 🔨 Building |
