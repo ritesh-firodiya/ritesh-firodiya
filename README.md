@@ -20,17 +20,19 @@
 
 **[ritesh-firodiya/canon-cli](https://github.com/ritesh-firodiya/canon-cli)** · Claude Code plugin + CLI · MIT
 
-Facts, not assumptions. canon keeps your domain knowledge and AI rules in your repo and enforces them, so the AI guesses less and you redo less work. It runs on all 17 of my repos.
+A band above the Claude Code prompt that shows your usage, your prompt cache and the room left in the context window. A new install adds nothing else: no skills, no startup text, no search server. Free and MIT.
 
-- **Weighs a request before acting.** Claude answers DO IT, DO IT DIFFERENTLY or PUSH BACK, and every reason cites a principle and a file.
-- **Checks every claim against facts.** "Users want this" is marked backed or not, from the repo or a data source like Sentry. Work that rests on a guess stops until you agree to written terms.
-- **Finds what was decided.** Every wiki and decision record is indexed for local search, so a settled choice stays settled.
-- **Turns hard rules into checks.** `canon check` fails on a broken layout, a stale copy, or an import that crosses a repo's architecture.
+Turn on the rest per repo with `canon enable`:
+
+- **`process`: facts, not assumptions.** Claude weighs a request before acting and answers DO IT, DO IT DIFFERENTLY or PUSH BACK, citing a principle and a file. Each claim ("users want this") is checked against the repo and its data sources.
+- **`knowledge`: found before Claude answers.** Every wiki and decision record is indexed for local search, so a settled choice stays settled.
+- **`routing`: the right effort for each prompt**, shown on the band, and you can override it.
+- **`canon check`** fails on a broken layout, a stale copy, or an import that crosses a repo's architecture.
 
 ```bash
 claude plugin marketplace add ritesh-firodiya/canon-cli
 claude plugin install canon@canon
-npm install -g @freetesh/canon
+npm install -g @freetesh/canon   # only for the features above
 ```
 
 ---
@@ -50,10 +52,9 @@ Hobby projects under **[Ritvi Apps](https://github.com/ritvi-apps)**. Source rep
 | **Aakalan** (आकलन) | Your expenses and everyone else's on one ledger. Split with friends and flatmates, settle over UPI. | 🔒 Closed testing | 🧪 **[Public beta](https://testflight.apple.com/join/S45tHrsf)** | – |
 | **Tic Tac Toe** | The classic 3×3. Two players on one device, or a minimax AI that plays perfectly on Hard. | 🟢 **[Play Store](https://play.google.com/store/apps/details?id=com.riteshf.tictactoe)** | 🟢 **[App Store](https://apps.apple.com/in/app/tic-tac-toe-classic-xo/id6811345763)** | – |
 | **Learning Platform** | An LMS where courses are Markdown in a Git repo, synced into the product on push. | – | – | 🟢 **[Live demo](https://learning-platform-web-gamma.vercel.app/)** |
-| **Chess** | The whole game, on one phone. | 🔒 [Closed test](https://play.google.com/apps/testing/com.riteshf.chess) | 🟢 **[App Store](https://apps.apple.com/app/askcal-ai-calorie-counter/id6811875320)** · 🧪 [public beta](https://testflight.apple.com/join/XjytTyb1) | – |
+| **Chess** | The whole game, on one phone. | 🔒 [Closed test](https://play.google.com/apps/testing/com.riteshf.chess) | 🧪 **[Public beta](https://testflight.apple.com/join/XjytTyb1)** (App Store review pending) | – |
 | **Scrvio** | Privacy-first browser screen recorder. No install, no sign-up; recordings stay in your own S3 bucket. | – | – | 🟢 **[scrvio.com](https://scrvio.com)** |
 | **DwarSeva** | Society management: visitor check-ins, approvals, events, service requests and payments. | 🔨 Building | 🔨 Building | 🔨 Building |
-| **tradx** | Trading research and paper-trading control centre. Paper-only by default; live orders stay gated. | – | – | 🔨 Building |
 | **Reel** | Video maker: a script in, a video out. Marketing and demo videos with voice and music, rendered from Markdown in a product's repo. | – | – | 🔨 Building |
 | **Seedha Ghar** | Map-based property listings, every listing human-verified. | ✏️ In design | ✏️ In design | ✏️ In design |
 | **Plan-Kid** | Parenthood journey app for couples, from deciding to parenting. | ✏️ In design | ✏️ In design | – |
